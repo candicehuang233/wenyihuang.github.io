@@ -14,6 +14,8 @@ I am a 3rd-year Ph.D. Candidate in quantitative marketing at School of Economics
 ​
 I am passionate about research on digital platforms, social media, influencer marketing and user-generated content. I apply machine learning, and utilize causal inference to reveal the interactions between brand strategic objectives, influencer social campaign and user engagement on digital platforms.
 
+You can find my CV here: [Candice's Curriculum Vitae](assets/Curriculum_Vitae.pdf)
+
 Education
 ======
 - Ph.D. Candidate in Marketing, Tsinghua, 2021 - current

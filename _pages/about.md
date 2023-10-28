@@ -10,7 +10,7 @@ redirect_from:
 
 I am Wenyi (Candice) Huang. Welcome to my website!
 
-I am a 3rd-year Ph.D. candidate in quantitative marketing at School of Economics and Management, Tsinghua University. I am currently visting Ross Marketing, University of Michigan, working with [Prof. Justin T.Huang](https://www.justinthuang.com/).
+I am a 3rd-year Ph.D. Candidate in quantitative marketing at School of Economics and Management, Tsinghua University. I am currently visting Ross Marketing, University of Michigan, working with [Prof. Justin T.Huang](https://www.justinthuang.com/).
 ​
 I am passionate about research on digital platforms, social media, influencer marketing and user-generated content. I apply machine learning, and utilize causal inference to reveal the interactions between brand strategic objectives, influencer social campaign and user engagement on digital platforms.
 

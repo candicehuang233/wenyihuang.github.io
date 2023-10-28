@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wenyi (Candice) Huang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenyi (Candice) Huang"
-  avatar           : "profile.png"
+  avatar           : "avatar_1.png"
   bio              : "Live in the moment"
   location         : "Ann Arbor"
   employer         :

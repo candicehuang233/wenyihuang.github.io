@@ -18,7 +18,7 @@ You can find my CV here: [Candice's Curriculum Vitae](assets/Curriculum_Vitae.pd
 
 Education
 ======
-- Ph.D. Candidate in Marketing, Tsinghua, 2021 - current
+- Ph.D. Candidate in Marketing, Tsinghua University, 2021 - current
 - M.A. in Marketing Analytics and Insights, National University of Singapore, 2020 - 2021
 - B.A. in Business Adminstration, Washington University in St. Louis, 2018 - 2019
 - B.A. in Business Economics, University of Macau, 2016 - 2020

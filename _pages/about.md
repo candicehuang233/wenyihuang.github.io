@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! This is Wenyi (Candice) Huang"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,11 +16,7 @@ I am passionate about research on digital platforms, social media, influencer ma
 
 Education
 ======
-• Ph.D. Candidate in Marketing, Tsinghua, 2021 - current
-
-• M.A. in Marketing Analytics and Insights, National University of Singapore, 2020 - 2021
-
-• B.A. in Business Adminstration, Washington University in St. Louis, 2018 - 2019
-
-• B.A. in Business Economics, University of Macau, 2016 - 2020
-
+- Ph.D. Candidate in Marketing, Tsinghua, 2021 - current
+- M.A. in Marketing Analytics and Insights, National University of Singapore, 2020 - 2021
+- B.A. in Business Adminstration, Washington University in St. Louis, 2018 - 2019
+- B.A. in Business Economics, University of Macau, 2016 - 2020

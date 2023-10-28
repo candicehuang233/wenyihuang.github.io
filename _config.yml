@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  avatar           : "/images/avatar.jpg"
   name             : "Wenyi (Candice) Huang"
+  avatar           : "profile.png"
   bio              : "Live in the moment"
   location         : "Ann Arbor"
   employer         :

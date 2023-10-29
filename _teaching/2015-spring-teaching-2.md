@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Data Science Block Seminar"
 collection: teaching
-type: "Workshop"
+type: "Seminar Talk"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Tsinghua University, School of Economics and Management"
+date: 2022-09-05
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This one-week seminar aims at enabling master students majoring in business analytics hands-on experience for data analysis in the real business research context.
 
-Heading 1
+Data Science Workshop
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+- Students are provided with a business case and a sample dataset.
+- Students are free to think about business questions, and then develop business proposals with preliminary research and data analysis. They are required to submit written report and deliver project presentation.

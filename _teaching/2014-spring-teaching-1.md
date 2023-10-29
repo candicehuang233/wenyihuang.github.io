@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Principle of Economics"
 collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Tsinghua University, School of Economics and Management"
+date: 2021-09-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teach weekly one-hour discussion forum for two sections for around 20 students per class.
 
-Heading 1
+Some Topics
 ======
+- Electicity Demand and Supply
+- Private School Complusory Education
+- Housing Market
+- Wine Consumption
+- Two-way Auction
+- Carbon Transaction Market
+- Steel Market
+- Internet Regulatory
 
-Heading 2
-======
-
-Heading 3
-======

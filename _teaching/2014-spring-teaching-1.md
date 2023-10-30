@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Beijing, China"
 ---
 
-This is a weekly one-hour discussion forum for around 20 students per section.<br/><img src='../images/principle_of_economics.png'>
+This is a weekly one-hour discussion forum for around 20 students per section.<br/><br/><img src='../images/principle_of_economics.png'>
 
 Some Business Cases
 ======

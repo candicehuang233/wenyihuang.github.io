@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Beijing, China"
 ---
 
-Teach weekly one-hour discussion forum for two sections for around 20 students per class.<br/><img src='/images/principle of economics.png'>
+Teach weekly one-hour discussion forum for two sections for around 20 students per class.<br/><img src='/images/principle_of_economics.png'>
 
 Some Business Cases
 ======

@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Beijing, China"
 ---
 
-Teach weekly one-hour discussion forum for two sections for around 20 students per class.
+Teach weekly one-hour discussion forum for two sections for around 20 students per class<br/><img src='/images/500x300.png'>.
 
 Some Topics
 ======
